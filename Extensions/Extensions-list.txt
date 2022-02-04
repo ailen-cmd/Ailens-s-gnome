@@ -1,0 +1,14 @@
+AppIndicator and KStatusNotifierItem Support 		by 3v1n0
+Auto Night Light 					by Zefty
+Blur my Shell 						by aunetx
+Cleaner Overview 					by gonza_11
+Clipboard Indicator 					by Tudmotu
+Floating Dock 						by fmoreira
+GSConnect 						by dlandau
+Jiggle 							by jeffchannell
+MPRIS Panel Player 					by kennedn
+Night Theme Switcher 					by rmnvgr
+NoAnnoyance v2 						by bjoerndaase
+Transcode App Search 					by Statyan
+Transparent Window Moving 				by Noobsai
+User Themes 						by fmuellner

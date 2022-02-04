@@ -1,0 +1,3 @@
+Copy the "functions" folder to ~/.config/fish/
+
+cp -rf functions/ ~/.config/fish/
